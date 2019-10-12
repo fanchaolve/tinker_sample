@@ -1,0 +1,3 @@
+com/fancl/tinker/MainActivity.class
+com/fancl/tinker/BaseApplication.class
+com/fancl/tinker/BaseActivity.class
